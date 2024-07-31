@@ -137,6 +137,7 @@ article hr + p {
   height: 350px;
   align-self: stretch;
   margin-bottom: 20px;
+  object-fit: cover;
 }
 
 .card-content h3 {
